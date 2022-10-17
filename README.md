@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @malhar2000
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning Game Developement C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on SC2
 - 📫 Reach me at malhar@ualberta.ca
 
 <!---
