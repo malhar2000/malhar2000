@@ -1,5 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=malhar&label=Profile%20views&color=0e75b6&style=flat" alt="malhar2000" /> </p>
-<h1 align="center">Hi, I'm </h1>
+<h1 align="center">Hi, I'm Malhar</h1>
 <p align="center"> <a> <img src="shovo2.gif" alt="malhar2000"  width="500" height="350" /> </a> </p>
 
 <p align="center"> 
